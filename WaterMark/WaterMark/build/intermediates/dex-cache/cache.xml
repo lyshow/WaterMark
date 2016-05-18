@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\workspace\WaterMark\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
+        <dex dex="E:\workspace\WaterMark\build\intermediates\pre-dexed\debug\android-support-v4-9bdc5da745c447d1ac099e6063645f6c4a9e2516.jar" />
+    </item>
+
+</items>
